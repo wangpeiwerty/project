@@ -11,3 +11,6 @@ https://www.jianshu.com/p/8242dcc90f91
 
 github
 https://github.com/zhiaixinyang/PersonalCollect
+
+Android实践之ScrollView中滑动冲突处理
+https://www.jianshu.com/p/87a41b8c0dd0
