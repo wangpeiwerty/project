@@ -16,3 +16,5 @@ Android实践之ScrollView中滑动冲突处理
 https://www.jianshu.com/p/87a41b8c0dd0
 
 Android换肤：https://www.jianshu.com/p/b0253de8ac04
+
+常用开源库：https://www.jianshu.com/p/deb987c17a6a
